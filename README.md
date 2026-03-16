@@ -51,7 +51,7 @@ O projeto também incentiva a **aprendizagem ativa com inteligência artificial*
 
 Este projeto foi construído utilizando as seguintes ferramentas:
 
-- :contentReference[oaicite:1]{index=1} — análise de documentos e geração de respostas com IA  
+- Análise de documentos e geração de respostas com IA  
 - GitHub — hospedagem e colaboração open source  
 - Markdown — documentação estruturada  
 - Inteligência Artificial Generativa — geração de resumos e explicações  
