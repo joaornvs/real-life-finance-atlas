@@ -9,3 +9,7 @@ Agradecimento a todas as pessoas que contribuem com este projeto.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Contribuições de qualquer tipo são bem-vindas!
+
+
+
+## 🌍 Finance Atlas Contributors Map
